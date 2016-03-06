@@ -1,0 +1,5 @@
+name: ScoreboardChatColors
+author: jjm_223
+version: 1.0-SNAPSHOT
+description: Because Spigot refuses to fix it.
+main: me.jjm_223.scoreboardchatcolors.ScoreboardChatColors
